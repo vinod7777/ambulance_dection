@@ -1,0 +1,7 @@
+torch
+opencv-python
+numpy
+yolov5
+Pillow
+playsound
+simpleaudio 

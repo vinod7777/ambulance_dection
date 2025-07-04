@@ -1,0 +1,5 @@
+train: ambulance_dataset/train
+val: ambulance_dataset/valid
+
+nc: 1
+names: ['ambulance'] 
